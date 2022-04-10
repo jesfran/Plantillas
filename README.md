@@ -6,11 +6,11 @@
 `2.` Compatibilidad con el menú contextual<br>
 `3.` Fragmentación/Sistema de clústeres<br>
 `4.` Base de datos Mongoose ***Si no tiene una MongoDatabase, Obtenga uno aquí --->*** **[Haga clic](https://www.mongodb.com/)**
-# 📑 RULES:
-`1.` Give Credits if **you** consider using!<br>
-`2.` Dont re-sell any code using the Handler **unless** you have **majorly** changed it!<br>
-`3.` Enjoy 💘<br><br>
-# 🔗 Support Server<br>
-<a href="https://discord.gg/azury"> <img src="https://discord.com/api/guilds/895398888113049631/widget.png?style=banner2">
+# 📑 REGLAS:
+`1.` ¡Dé créditos si **usted** considera usarlo!<br>
+`2.` ¡No vuelva a vender ningún código utilizando el controlador **a menos que** lo haya modificado **en gran medida**!<br>
+`3.` Disfruta 💘<br><br>
+# 🔗 Servidor de soporte<br>
+<a href="https://discord.gg/RGxAF8pG42"> <img src="https://discord.com/api/guilds/734555671705681941/widget.png?style=banner2">
 <br>
-  ***Like what you see? You can __order__ bots from Our Discord-Server which are way better!***
+  ***¿Te gusta lo que ves? ¡Puedes __ordenar__ bots de nuestro Discord-Server que son mucho mejores!***
