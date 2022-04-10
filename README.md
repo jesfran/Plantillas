@@ -1,12 +1,11 @@
 # **SlashCommands Handler by The *Azury Team***
-> *If this Git-Repo gets "40" Stars ⭐ i'll add some more Commands!*
+> *Si este Git-Repo obtiene "40" Estrellas ⭐ Agregare mas comandos!*
 
-# 🛠️ FEATURES:
-`1.` SlashCommands Support<br>
-`2.` ContextMenu Support<br>
-`3.` Sharding/Clusters System<br>
-`4.` Mongoose Database ***If you Don't Have a MongoDatabase, Get one Here --->*** **[Click](https://www.mongodb.com/)**
-
+# 🛠️ CARACTERÍSTICAS:
+`1.` Compatibilidad con comandos de barra inclinada<br>
+`2.` Compatibilidad con el menú contextual<br>
+`3.` Fragmentación/Sistema de clústeres<br>
+`4.` Base de datos Mongoose ***Si no tiene una MongoDatabase, Obtenga uno aquí --->*** **[Haga clic](https://www.mongodb.com/)**
 # 📑 RULES:
 `1.` Give Credits if **you** consider using!<br>
 `2.` Dont re-sell any code using the Handler **unless** you have **majorly** changed it!<br>
