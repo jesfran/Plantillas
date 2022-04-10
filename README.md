@@ -1,8 +1,8 @@
-# **SlashCommands Handler by The *Azury Team***
+# **Codigo base de los comandos */* Hecho por *El equipo de ferrema***
 > *Si este Git-Repo obtiene "40" Estrellas ⭐ Agregare mas comandos!*
 
 # 🛠️ CARACTERÍSTICAS:
-`1.` Compatibilidad con comandos de barra inclinada<br>
+`1.` Compatibilidad con comandos de /<br>
 `2.` Compatibilidad con el menú contextual<br>
 `3.` Fragmentación/Sistema de clústeres<br>
 `4.` Base de datos Mongoose ***Si no tiene una MongoDatabase, Obtenga uno aquí --->*** **[Haga clic](https://www.mongodb.com/)**
